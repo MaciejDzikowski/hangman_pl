@@ -1,4 +1,4 @@
-An easy hangman game with Polish instructions. Works for Polish and English alphabet.
+a simple hangman game with Polish instructions. Works for Polish and English alphabet.
 
 
 
