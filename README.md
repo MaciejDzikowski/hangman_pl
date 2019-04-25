@@ -3,5 +3,5 @@ a simple hangman game with Polish instructions. Works for Polish and English alp
 
 
 
-<b>to start:</b>
+<b>usage:</b>
 hangman_pl.py [file with words]
